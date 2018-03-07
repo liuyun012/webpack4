@@ -5,7 +5,7 @@
 - 执行 yarn init ，配置相关信息
 - 添加 index.html，新建 src文件，添加 index.js文件
 - 项目中安装 webpack 和 webpack-cli : yarn add webpack webpack-cli -D
-- 新建 .gitinore、.babelrc、.postcssrc.js
+- 新建 .gitignore、.babelrc、.postcssrc.js
 - 安装 babel解释器
 - 新建一个配置文件 webpack.config.js
 - 依次设置 mode、entry、output、plugins等模块
